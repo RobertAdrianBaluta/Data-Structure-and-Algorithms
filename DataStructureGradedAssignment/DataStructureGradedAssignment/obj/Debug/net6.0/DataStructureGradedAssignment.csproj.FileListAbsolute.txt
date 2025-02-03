@@ -1,0 +1,14 @@
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\bin\Debug\net6.0\DataStructureGradedAssignment.exe
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\bin\Debug\net6.0\DataStructureGradedAssignment.deps.json
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\bin\Debug\net6.0\DataStructureGradedAssignment.runtimeconfig.json
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\bin\Debug\net6.0\DataStructureGradedAssignment.dll
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\bin\Debug\net6.0\DataStructureGradedAssignment.pdb
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\obj\Debug\net6.0\DataStructureGradedAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\obj\Debug\net6.0\DataStructureGradedAssignment.AssemblyInfoInputs.cache
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\obj\Debug\net6.0\DataStructureGradedAssignment.AssemblyInfo.cs
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\obj\Debug\net6.0\DataStructureGradedAssignment.csproj.CoreCompileInputs.cache
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\obj\Debug\net6.0\DataStructureGradedAssignment.dll
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\obj\Debug\net6.0\refint\DataStructureGradedAssignment.dll
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\obj\Debug\net6.0\DataStructureGradedAssignment.pdb
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\obj\Debug\net6.0\DataStructureGradedAssignment.genruntimeconfig.cache
+C:\Users\adrian-robert.baluta\source\repos\DataStructureGradedAssignment\DataStructureGradedAssignment\obj\Debug\net6.0\ref\DataStructureGradedAssignment.dll
